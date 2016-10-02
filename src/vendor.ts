@@ -7,6 +7,9 @@ import '@angular/core';
 import '@angular/http';
 import '@angular/router';
 
+// NgRx
+import '@ngrx/store'
+
 // RxJS 5
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';

@@ -1,0 +1,7 @@
+export enum Action {
+	ADD_ITEM,
+	CREATE_ITEM,
+	DELETE_ITEM,
+	SELECT_ITEM,
+	UPDATE_ITEM
+}

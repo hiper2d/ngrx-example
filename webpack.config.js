@@ -7,7 +7,7 @@ var config = {
   entry: {
     polyfills: './src/polyfills',
     vendor:    './src/vendor',
-    main:      './src/main'
+    main:      './src/boot'
   },
 
   output: {

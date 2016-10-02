@@ -1,0 +1,8 @@
+<div class="mdl-grid items">
+  <div>
+    <item-list [items]="items | async" (selected)="selectItem($event)" (deleted)="deleteItem($event)"></item-list>
+  </div>
+  <div>
+    <item-detail [selectedItem]="selectedItem | async" (saved)="saveItem($event)" (cancelled)="resetItem($event)"></item-detail>
+  </div>
+</div>
