@@ -1,1 +1,1 @@
-NgRx example based on [`http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/`](this article)
+NgRx example based on [`this article`](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/)
